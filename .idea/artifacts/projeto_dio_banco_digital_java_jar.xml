@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="projeto-dio-banco-digital-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projeto_dio_banco_digital_java_jar</output-path>
+    <root id="archive" name="projeto-dio-banco-digital-java.jar">
+      <element id="module-output" name="projeto-dio-banco-digital-java" />
+    </root>
+  </artifact>
+</component>
